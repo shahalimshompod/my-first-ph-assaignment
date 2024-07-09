@@ -10,6 +10,7 @@
     font-family: "Azeret Mono", monospace;
   font-optical-sizing: auto;
   font-style: normal;
+  letter-spacing: 0px;
 }
 
 main{
@@ -86,6 +87,7 @@ header nav button:hover{
     width: 998px;
     margin: 0 auto;
     margin-bottom: 24px;
+    line-height: 68px;
 }
 
 .banner-content p{
@@ -95,7 +97,7 @@ header nav button:hover{
     width: 852px;
     margin: 0 auto;
     margin-bottom: 32px;
-    
+    line-height: 26px;
 }
 
 .banner-content button{
@@ -106,6 +108,7 @@ header nav button:hover{
     font-size: 20px;
     font-weight: 600;
     color: white;
+    line-height: 23px;
 }
 
 .banner-content button:hover{
@@ -145,6 +148,7 @@ header nav button:hover{
     font-size: 32px;
     font-weight: 800;
     margin-bottom: 30px;
+    line-height: 37px;
 }
 
 .section-1-heading > p{
@@ -152,12 +156,12 @@ header nav button:hover{
     font-size: 16px;
     font-weight: 400;
     text-align: center;
+    line-height: 26px;
 }
 
 .section-1-heading{
     width: 852px;
     height: 115px;
-    /* background-color: brown; */
     margin: 0 auto;
     margin-bottom: 48px;
 }
@@ -182,6 +186,7 @@ header nav button:hover{
     font-weight: 700;
     margin-bottom: 16px;
     text-align: left;
+    line-height: 36px;
 }
 
 .box-1-text-container > p{
@@ -190,6 +195,7 @@ header nav button:hover{
     font-size: 16px;
     font-weight: 400;
     margin-bottom: 32px;
+    line-height: 26px;
 }
 
 .box-1-text-container > button{
@@ -200,6 +206,8 @@ header nav button:hover{
     font-family: Azeret Mono;
     font-size: 20px;
     font-weight: 600;
+    background-color: white;
+    line-height: 23px;
 }
 
 .box-1-text-container{
@@ -230,6 +238,7 @@ header nav button:hover{
     font-weight: 700;
     margin-bottom: 16px;
     text-align: left;
+    line-height: 36px;
 }
 
 .box-2-text-container > p{
@@ -238,6 +247,7 @@ header nav button:hover{
     font-size: 16px;
     font-weight: 400;
     margin-bottom: 32px;
+    line-height: 26px;
 }
 
 .box-2-text-container > button{
@@ -248,6 +258,8 @@ header nav button:hover{
     font-family: Azeret Mono;
     font-size: 20px;
     font-weight: 600;
+    background-color: white;
+    line-height: 23px;
 }
 
 .box-2-img-2-container{
@@ -276,6 +288,7 @@ header nav button:hover{
     font-weight: 700;
     margin-bottom: 16px;
     text-align: left;
+    line-height: 36px;
 }
 
 .box-3-text-container > p{
@@ -284,6 +297,7 @@ header nav button:hover{
     font-size: 16px;
     font-weight: 400;
     margin-bottom: 32px;
+    line-height: 26px;
 }
 
 .box-3-text-container > button{
@@ -294,6 +308,8 @@ header nav button:hover{
     font-family: Azeret Mono;
     font-size: 20px;
     font-weight: 600;
+    background-color: white;
+    line-height: 23px;
 }
 
 .box-3-text-container{
@@ -314,6 +330,7 @@ header nav button:hover{
     font-weight: 800;
     text-align: center;
     margin-bottom: 24px;
+    line-height: 32px;
 }
 
 .section-2-heading p{
@@ -322,6 +339,7 @@ header nav button:hover{
     font-weight: 400;
     text-align: center;
     margin-bottom: 48px;
+    line-height: 26px;
 }
 
 .section-2-youtube-video{
