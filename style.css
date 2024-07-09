@@ -15,6 +15,7 @@
 
 /* shared styles ends here */
 
+/* header styles started here  */
 /* header nav bar styles starts here */
 
 .navigation_bar{
@@ -109,3 +110,54 @@ header nav button:hover{
 }
 
 /* header banner styles ends here */
+/* header styles ends here  */
+
+
+/* main section styles starts here  */
+
+/* section-1 styles starts here  */
+
+.section-1{
+    width: 1140px;
+    height: 1395px;
+    /* border: 2px solid red; */
+    margin: 100px auto;
+    border-radius: 16px;
+background: rgba(13, 19, 33, 0.02);
+position: relative;
+}
+
+.section-1-container{
+    margin: 0px 97px;
+    height: 1072px;
+    width: 946px;
+    position: absolute;
+    top: 80px;
+}
+
+.section-1-box-1, .section-1-box-2, .section-1-box-3, .section-1-heading{
+    display: flex;
+}
+.section-1-heading{
+    display: block;
+    text-align: center;
+}
+
+.section-1-heading h1{
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 30px;
+    color: rgb(13, 19, 33);
+}
+
+.section-1-heading p{
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    color: rgb(13, 19, 33);
+    margin-bottom: 48px
+}
+
+
+/* section-1 styles starts here  */
