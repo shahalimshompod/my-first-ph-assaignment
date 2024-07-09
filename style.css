@@ -513,3 +513,83 @@ header nav button:hover{
 }
 
 /* section-3 styles ends here  */
+
+
+/* section-4 styles starts here  */
+
+.section-4-container{
+    height: 866px;
+    margin-bottom: 100px;
+}
+
+.section-4-heading{
+    width: 852px;
+    height: 113px;
+    margin: 0 auto;
+    margin-bottom: 48px;
+}
+
+.section-4-heading h1{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.section-4-heading p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+}
+
+.section-4 .item{
+    height: 219px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 24px;
+    border: 1px solid rgba(13, 19, 33, 0.15);
+    border-radius: 16px;
+    background: rgb(255, 255, 255);
+    margin-bottom: 24px;
+}
+
+.section-4 .item > img{
+    margin-left: 40px;
+}
+
+.section-4 .item > .item-text{
+    margin-right: 40px;
+}
+
+.section-4 .item .item-text h2{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    text-align: left;
+    margin-bottom: 8px;
+}
+
+.section-4 .item .item-text p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+.section-4 .item .item-text a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: left;
+}
+
+/* section-4 styles ends here  */
