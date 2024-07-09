@@ -1,0 +1,111 @@
+/* shared styles are here */
+@import url('https://fonts.googleapis.com/css2?family=Azeret+Mono:ital,wght@0,100..900;1,100..900&display=swap');
+
+
+
+
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: "Azeret Mono", monospace;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+
+/* shared styles ends here */
+
+/* header nav bar styles starts here */
+
+.navigation_bar{
+    width: 100%;
+    height: 128px;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    gap: 782px;
+}
+
+header nav h3{
+    font-size: 28px;
+    font-weight: 800;
+    color: rgb(13, 19, 33);
+}
+
+header nav button{
+    font-size: 20px;
+    background-color: white;
+    padding: 17px 24px;
+    border-radius: 8px;
+    opacity: 0.8;
+    cursor: pointer;
+    font-weight: 600;
+}
+
+header nav button:hover{
+    /* opacity: 0.7; */
+    background-color: rgb(13, 19, 33);
+    color: white;
+}
+
+/* header nav bar styles ends here */
+
+/* header banner styles starts here */
+
+.banner-container{
+    height: 660px;
+    width: 100%;
+    background-image: url(./assets/Hero-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+}
+
+.banner-content{
+    text-align: center;
+}
+
+.banner-content img{
+    margin-top: 26px;
+    margin-bottom: 32px;
+    height: 240px;
+    width: 240px; 
+}
+
+.banner-content h1{
+    
+    font-size: 48px;
+    font-weight: 800;
+    height: 136px;
+    width: 998px;
+    margin: 0 auto;
+    margin-bottom: 24px;
+}
+
+.banner-content p{
+    font-size: 16px;
+    font-weight: 400;
+    height: 52px;
+    width: 852px;
+    margin: 0 auto;
+    margin-bottom: 32px;
+    
+}
+
+.banner-content button{
+    margin-bottom: 44px;
+    padding: 21px 24px;
+    border-radius: 8px;
+    background: rgb(13, 19, 33);
+    font-size: 20px;
+    font-weight: 600;
+    color: white;
+}
+
+.banner-content button:hover{
+    color: black;
+    background-color: white;
+    cursor: pointer;
+}
+
+/* header banner styles ends here */
