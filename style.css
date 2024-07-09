@@ -353,3 +353,163 @@ header nav button:hover{
     border-radius: 16px;
 }
 /* section-2 styles ends here  */
+
+/* section-3 styles starts here  */
+
+.section-3-container{
+    max-height: 460px;
+    margin-bottom: 111px;
+}
+
+.section-3-heading h1{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    line-height: 37px;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.section-3-heading p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+.section-3-contents{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.section-3-contents .content-1{
+    width: 364px;
+    height: 299px;
+    border-radius: 16px;
+    background: rgba(255, 76, 30, 0.05);
+}
+
+.content-1 img{
+    margin-bottom: 24px;
+}
+
+.content-1 h2{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    text-align: left;
+    margin-bottom: 8px;
+}
+
+.content-1 p{
+    color: rgb(13, 19, 33);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+.content-1 a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: left;
+}
+
+.content-1 .content{
+    margin: 40px;
+}
+
+/* ...... */
+
+.section-3-contents .content-2{
+    width: 364px;
+    height: 299px;
+    border-radius: 16px;
+    background: rgba(0, 76, 232, 0.05);
+}
+
+.content-2 img{
+    margin-bottom: 24px;
+}
+
+.content-2 h2{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    text-align: left;
+    margin-bottom: 8px;
+}
+
+.content-2 p{
+    color: rgb(13, 19, 33);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+.content-2 a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: left;
+}
+
+.content-2 .content{
+    margin: 40px;
+}
+
+/* ...... */
+
+.section-3-contents .content-3{
+    width: 364px;
+    height: 299px;
+    border-radius: 16px;
+    background: rgba(255, 223, 0, 0.05);
+}
+
+.content-3 img{
+    margin-bottom: 24px;
+}
+
+.content-3 h2{
+    color: rgb(13, 19, 33);
+    font-size: 24px;
+    font-weight: 800;
+    line-height: 36px;
+    text-align: left;
+    margin-bottom: 8px;
+}
+
+.content-3 p{
+    color: rgb(13, 19, 33);
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 26px;
+    text-align: left;
+    margin-bottom: 24px;
+}
+
+.content-3 a{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    text-align: left;
+}
+
+.content-3 .content{
+    margin: 40px;
+}
+
+/* section-3 styles ends here  */
