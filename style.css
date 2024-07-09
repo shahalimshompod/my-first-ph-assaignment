@@ -304,3 +304,34 @@ header nav button:hover{
     margin-right: 48px;
 }
 /* section-1 styles ends here  */
+
+
+/* section-2 styles starts here  */
+
+.section-2-heading h1{
+    color: rgb(13, 19, 33);
+    font-size: 32px;
+    font-weight: 800;
+    text-align: center;
+    margin-bottom: 24px;
+}
+
+.section-2-heading p{
+    color: rgb(13, 19, 33);
+    font-size: 16px;
+    font-weight: 400;
+    text-align: center;
+    margin-bottom: 48px;
+}
+
+.section-2-youtube-video{
+    border: 1px solid rgba(13, 19, 33, 0.2);
+    border-radius: 16px;
+    padding: 32px;
+    margin-bottom: 151px;
+} 
+
+.video{
+    border-radius: 16px;
+}
+/* section-2 styles ends here  */
