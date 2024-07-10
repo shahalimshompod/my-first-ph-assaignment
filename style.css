@@ -198,7 +198,7 @@ header nav button:hover{
     line-height: 26px;
 }
 
-.box-1-text-container > button{
+.box-1-text-container button{
     border: 1px solid rgb(13, 19, 33);
     opacity: 0.7;
     padding: 12px 20px;
@@ -208,6 +208,12 @@ header nav button:hover{
     font-weight: 600;
     background-color: white;
     line-height: 23px;
+}
+
+.box-1-text-container button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
 }
 
 .box-1-text-container{
@@ -250,7 +256,7 @@ header nav button:hover{
     line-height: 26px;
 }
 
-.box-2-text-container > button{
+.box-2-text-container button{
     border: 1px solid rgb(13, 19, 33);
     opacity: 0.7;
     padding: 12px 20px;
@@ -260,6 +266,12 @@ header nav button:hover{
     font-weight: 600;
     background-color: white;
     line-height: 23px;
+}
+
+.box-2-text-container button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
 }
 
 .box-2-img-2-container{
@@ -300,7 +312,7 @@ header nav button:hover{
     line-height: 26px;
 }
 
-.box-3-text-container > button{
+.box-3-text-container button{
     border: 1px solid rgb(13, 19, 33);
     opacity: 0.7;
     padding: 12px 20px;
@@ -310,6 +322,12 @@ header nav button:hover{
     font-weight: 600;
     background-color: white;
     line-height: 23px;
+}
+
+.box-3-text-container button:hover{
+    background-color: black;
+    color: white;
+    cursor: pointer;
 }
 
 .box-3-text-container{
