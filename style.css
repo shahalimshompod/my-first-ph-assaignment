@@ -692,7 +692,11 @@ header nav button:hover{
     align-items: center;
     gap: 525px;
     border-radius: 16px;
+}
+
+#footer-color{
     background: rgba(13, 19, 33, 0.03);
+    padding-bottom: 20px;
 }
 
 .footer-text-container h3{
@@ -709,6 +713,11 @@ header nav button:hover{
    justify-content: space-around;
    gap: 24px;
    margin-right: 150px;
+}
+
+#assignment-1-mark{
+    text-align: center;
+    color: purple;
 }
 
 /* footer section styles starts here  */
